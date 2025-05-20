@@ -31,50 +31,46 @@ The dataset contains annual spending (in monetary units) on diverse product cate
 
 ## Results
 
-#### Optimal Clusters: 3
+#### Optimal Clusters: 4
 
-### Segmentation:
+Customer Segments (k=4)
 
-Segment	Characteristics
-1. High spending on fresh products
-2. High spending on detergents and paper goods
-3. Moderate spending across all categories
+#### Segment 0: Traditional Food Buyers
 
+- High spending on Fresh and Frozen items
+- Likely represents restaurants, caterers, or food service businesses
 
-## Business Insights
+#### Segment 1: Convenience Product Buyers
 
-### Segment 1: High-Volume Fresh Product Buyers
+- High spending on Milk, Grocery, and Detergents_Paper
+- Likely cafés, convenience stores, or institutional buyers
 
-Profile: These customers consistently purchase large quantities of fresh products.
+#### Segment 2: Moderate General Buyers
 
-#### Strategic Actions:
+- Moderate spending across all product categories
+- Represents occasional or general-purpose customers
 
-- Customized Offerings: Develop tailored product bundles focusing on fresh goods.
+#### Segment 3: Premium and Specialty Buyers
 
-- Loyalty Programs: Implement rewards programs to encourage repeat purchases.
+- High spending on Fresh and Delicatessen
+- Likely boutique stores, gourmet restaurants, or niche retailers
 
-- Efficient Delivery: Enhance delivery schedules to ensure freshness and reliability.
+### Segment 0: Traditional Food Buyers
+- Cold Chain Optimization: Ensure reliable storage and delivery of perishables
+- Bulk Fresh Deals: Offer volume discounts on fresh and frozen goods
+- Inventory Tools: Provide stock management tools for spoilable inventory
 
-### Segment 2: High-Volume Detergents and Paper Product Buyers
+### Segment 1: Convenience Product Buyers
+-  Subscription Options: Auto-refill common goods like groceries and cleaning supplies
+- Cross-Selling: Bundle grocery and detergent products for higher order value
+- Loyalty Programs: Reward repeat purchases from high-frequency customers
 
-Profile: This group predominantly purchases detergents and paper products.
+### Segment 2: Moderate General Buyers
+- Starter Packs: Offer smaller, flexible product bundles
+- Referral Incentives: Reward existing clients for bringing in new ones
+- Usage Education: Promote product benefits through guides and marketing
 
-#### Strategic Actions:
-
-- Bulk Discounts: Offer volume-based pricing to incentivize larger orders.
-
-- Subscription Models: Introduce recurring order options for consistent supply.
-
-- Targeted Marketing: Create campaigns highlighting the benefits of bulk purchasing.
-
-### Segment 3: Diverse Product Purchasers
-
-Profile: These customers have moderate spending across various product categories.
-
-Strategic Actions:
-
-- Flexible Bundling: Allow customization of product bundles to cater to varied needs.
-
-- Cross-Selling Opportunities: Identify and promote complementary products.
-
-- Feedback Mechanisms: Implement systems to gather customer feedback for continuous improvement.
+### Segment 3: Premium and Specialty Buyers
+- Premium Product Line: Market artisanal or high-end grocery options
+- Custom Orders: Allow special requests and smaller batch deliveries
+- Dedicated Support: Assign personal reps or support lines for VIP clients
