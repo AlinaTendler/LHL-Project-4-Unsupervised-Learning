@@ -55,6 +55,8 @@ Customer Segments (k=4)
 - High spending on Fresh and Delicatessen
 - Likely boutique stores, gourmet restaurants, or niche retailers
 
+## Business insights
+
 ### Segment 0: Traditional Food Buyers
 - Cold Chain Optimization: Ensure reliable storage and delivery of perishables
 - Bulk Fresh Deals: Offer volume discounts on fresh and frozen goods
