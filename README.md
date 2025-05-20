@@ -31,7 +31,7 @@ The dataset contains annual spending (in monetary units) on diverse product cate
 
 ## Results
 
-### Optimal Clusters: 3
+#### Optimal Clusters: 3
 
 ### Segmentation:
 
