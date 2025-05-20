@@ -18,7 +18,7 @@ The dataset contains annual spending (in monetary units) on diverse product cate
 2. Apply KMeans clustering.
 3. Visualize the clusters.
 
-#### Hierarchical Clustering:
+### Hierarchical Clustering:
 
 1. Compute linkage matrix.
 2. Plot dendrogram to determine the number of clusters.
